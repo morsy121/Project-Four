@@ -1,0 +1,50 @@
+body
+{
+    font-family: 'Poppins';
+    font-weight: 300;
+}
+
+.navbar {
+    box-shadow: 0 4px 7px #3291A5;
+}
+.nav-link
+{
+    font-size: 1.3rem ;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+.navbar-brand
+{
+    font-weight: 500;
+    font-size: 25px;
+}
+header
+{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(50 , 146 , 165 , 0.7) , rgba(50 , 146 , 165 , 0.7)), url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#authers img 
+{
+    margin-top: -70px;
+    margin-bottom: 20px;
+}
+
+.ppp{
+    margin-bottom:200px;
+}
+.footer
+{
+    background-color: rgba(255, 255, 255, 0.329)
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+    font-size: 18px;
+}
+.footer span 
+{
+    color:blue;
+    font-weight: bold;
+}
